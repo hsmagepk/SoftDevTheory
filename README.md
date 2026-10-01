@@ -15,4 +15,5 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 7. **サカナクション** – 
 8. **藤井風** – 
 9. **自爆** – 
-10. **下津光史** – 
+10. **嵐** –
+11. 
